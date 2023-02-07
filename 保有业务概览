@@ -1,26 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T10:10:58.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.1" etag="zmVIJIqpllx07bcli2ys" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T10:59:03.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.1" etag="gaRcEUfrM9O3gSOFOy8l" type="github">
   <diagram id="hqR6ulezbJlSHm4XoTHl" name="第 1 页">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot;&gt;保有客户&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;上一自然年任一月份产生过收入的C码维度客户，剔除KA，散单，冷链，医药。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
-          <mxGeometry x="20" y="100" width="470" height="90" as="geometry" />
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" edge="1" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-1" target="Fe2wq7n0GhLYqu6MdCg9-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-2" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;存量客户&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;上一年以来截止到上个自然月有发货的C码客户数。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
-          <mxGeometry x="610" y="95" width="240" height="100" as="geometry" />
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot;&gt;保有客户&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;上一自然年任一月份产生过收入的C码维度客户，剔除KA，散单，冷链，医药。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="470" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" edge="1" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-3" target="Fe2wq7n0GhLYqu6MdCg9-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fe2wq7n0GhLYqu6MdCg9-3" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;2022年保有客户全量数据&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;app.app_baoyou_cust_2022_da&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;数据量：&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;388531&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
-          <mxGeometry x="20" y="240" width="470" height="80" as="geometry" />
+          <mxGeometry x="20" y="238" width="470" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" edge="1" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-4" target="Fe2wq7n0GhLYqu6MdCg9-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fe2wq7n0GhLYqu6MdCg9-4" value="&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;收入表为月度数据，保有业务概览收入相关数据需要依赖表&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;app.app_marking_sale_ea_egr_vendor_all_new_det_m&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;执行周期和运行规则&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;spacing=2;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="360" width="470" height="100" as="geometry" />
+          <mxGeometry x="20" y="366" width="470" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" edge="1" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-5" target="Fe2wq7n0GhLYqu6MdCg9-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fe2wq7n0GhLYqu6MdCg9-5" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot;&gt;数据明细中，指标维度与数据字段对应&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;指标维度：时间、ABCDEF客户等级、业务条线、区域、战区、商业/商家类别&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
-          <mxGeometry x="20" y="500" width="470" height="100" as="geometry" />
+          <mxGeometry x="20" y="494" width="470" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" edge="1" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-6" target="Fe2wq7n0GhLYqu6MdCg9-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fe2wq7n0GhLYqu6MdCg9-6" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;保有客户业务量表&lt;/b&gt;&lt;/font&gt;：app.app_boai_baoyou_ord_sum_d&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;保有客户收入量表&lt;/b&gt;&lt;/font&gt;：app.app_boai_baoyou_egr_sum_m&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="20" y="640" width="470" height="100" as="geometry" />
+          <mxGeometry x="20" y="622" width="470" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-11" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;保有业务概览可视化&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="750" width="470" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
