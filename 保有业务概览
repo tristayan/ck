@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T09:56:53.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.1" etag="7uNKeK-d3es18kpmOW5Q" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T10:06:25.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.1" etag="OKfOJU6bXQ8-RodVBzrD" type="github">
   <diagram id="hqR6ulezbJlSHm4XoTHl" name="第 1 页">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Fe2wq7n0GhLYqu6MdCg9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" edge="1" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-1" target="Fe2wq7n0GhLYqu6MdCg9-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot;&gt;保有客户&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;上一自然年任一月份产生过收入的C码维度客户，&amp;lt;快递、快运、供应链、大件、到仓&amp;gt;。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot;&gt;标准客户保有概览&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;上一自然年任一月份产生过收入的C码维度客户，&amp;lt;快递、快运、供应链、大件、到仓&amp;gt;。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
           <mxGeometry x="20" y="110" width="470" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Fe2wq7n0GhLYqu6MdCg9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" edge="1" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-3" target="Fe2wq7n0GhLYqu6MdCg9-4">
