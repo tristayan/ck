@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T09:55:10.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QK1gzTWQjaPExJ9yhod6" version="20.8.1" type="github"><diagram id="hqR6ulezbJlSHm4XoTHl" name="第 1 页">5Vpbc6pIEP41PGaLm1weATH7kPOy2aqtfaJGmSAnyBjEGM+v3+5hRkDwFjVmj6cqJ8NHz62n/b7pjooRzD4eCzKf/mAxzRRdjT8UY6joumYaJvxCZF0htq1XQFKksTCqgef0FxWgKtBlGtNFy7BkLCvTeRucsDynk7KFkaJgq7bZC8vas85JQjvA84RkXfSfNC6nFerodo3/SdNkKmfWLLd6MyPSWOxkMSUxWzUgI1SMoGCsrFqzj4Bm6Dzpl6rfaMfbzcIKmpfHdBhRffVm5+rj9Onft6X1Iw4S90Fs451kS7FhsdhyLT1AY3CIeGRFOWUJy0kW1qhfsGUeU5xGhafa5omxOYAagD9pWa7F6ZJlyQCalrNMvH1heSleapZ4DljGCr4CIwhU+Ad4d8vCCwu2LCZ0zz5l6JAioeUeO6Oywz03JhAOfaRsRstiDQYFzUiZvreDhIhYSzZ29XFAQ5zICaej9ZyOlcH6/Th9b52S9bbEOPJbrUT85j3Qp/xzIt1aGxqTCXfwzr6LOcl7p8NBHxb85Dww0Jz5x95FjDdAOFC8oeI6Sugqjq04I46EiqcroaU4juLbshO4brw9EGDVojpwtc8OzB3WRnf5sKQf5QPJ0iSvdvVzuSjTlzXvqW7v2Dqw452uG5PJa8I/OQ/iTHC8NE/LlGTVXNsLmUDY06J/utBUfEdxPNlQ0Z++q/gmR3zFG6Bj3aFogIc9DxtwCujzAfe5uj0O2jh4QNiAYwLQ4uMEaC8aLu8+UlwNjWFGz0Zj1wP7AFueqjhazwFj/wHOuv9Uz/Bh108G+sbRDwdSK2K2OLFmPKSv1TQt6fOccAZagQ622W3KivQXhA2RAEw4SfPkib4gFWlqDf0llETby3bvtIDQ2MtP4q3UnrVUJ/G8qqXMtAU2bciYo16J0Zw70RvjSL0xv5XeGPetN8hiADZtJEGhzRDtL6ZJ4+J6KnW2X3epGpnP/4CfaMxIGk1eo0m0WM6i2QEP/C+32lqUDCIIE5A5FRuepjgBb3BZrATUBSkcKX6A2ofaOpJBhHKpCZls3Wx2uUHO2BjEC3DSnjXA+DbX5Uq7wz4R30g2X6dj8Uag+F5f1FdqbskrhIWvXB97dU8URvYN3n2zcRjN5D6xcZ1irlA2wEzf+8HqccldqbSu2septKa6VxIC905k2jxSpgffSqbNk2X6oimNUPYzqBU//VUmUXHPQJAZsghnLL/NWPDoWT2cUVEOUmBX3fk4FRsBESJxWjgI3PwFZzt9y7CR53xHIEBsPZO6fGEVAVs8sYFBQkytkJsHnDjldj6Tl57v36/U09NzMHmJmJHiFdg0WpCMRpRENCmid5rHrIhIlkU5XUUxLQ/eLm54l/hM/mlhvowJ8ka+B5g4ezKbdrn+urq4XRy8b3zGOZ1wvIVwCgwe9frpby4N19FVwzBunP3K9Pu319XBkbpqfStdHVww/R1fNV0+JzXuUTQLpRPzBhsrhY7MJEBSa4W18H+H1+ywnGcLY99sCPQm/+hOUQl01T1ElURkhOlF1R2E+KBW9mXcX17XPcoRjRxQpGYub5iy/qh5fjAMe4sQNnoKa6o2H83edOm/02BFVxPGIBa1cSO/A01xm6/4XK7TsGn0gpPbRADMpY8aIF8tbgem03DXlQx5v3lGZt5eOfQ7UQ7rSOXQtG8lHdbJ0nFOHeoCJdYTK6Nd5tkYd1OdPp5uUbrkx+1yIitiXlCMjy+Qfb0ruknjNVyBydB2bbX/Jn9zvt0mhcvz70B+i+R2/Hv6n+I/WVa5fAgfUwnhdVlvJBFZHnatU2L5rmLSMpzjYtI6PSbhsf5eEH/X+HaVEf4H</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-08T09:56:43.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WD_F-ruiY8vP-q-LYzGg" version="20.8.1" type="github">
+  <diagram id="hqR6ulezbJlSHm4XoTHl" name="第 1 页">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-1" target="Fe2wq7n0GhLYqu6MdCg9-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-1" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;存量客户&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;上一年以来截止到上个自然月有发货的C码客户数&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="20" y="110" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-3" target="Fe2wq7n0GhLYqu6MdCg9-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-3" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;存量客户全量数据&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;app.app_boai_ck_c_sum_m&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;运行规则：每月1号&lt;/div&gt;&lt;div&gt;每次运行时与上个月分区全量取并集&lt;br&gt;注：处理历史数据&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="20" y="207" width="470" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-4" target="Fe2wq7n0GhLYqu6MdCg9-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-4" value="&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;收入表为月度数据，存量业务概览收入相关数据需要依赖表&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;app.app_marking_sale_ea_egr_vendor_all_new_det_m&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;执行周期和运行规则&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;spacing=2;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="333" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-5" target="Fe2wq7n0GhLYqu6MdCg9-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-5" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot;&gt;数据明细中，指标维度与数据字段对应&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;指标维度：时间、ABCDEF客户等级、业务条线、区域、战区、商业/商家类别&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="20" y="433" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC0000;" parent="1" source="Fe2wq7n0GhLYqu6MdCg9-6" target="Fe2wq7n0GhLYqu6MdCg9-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-6" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;存量客户业务量表&lt;/b&gt;&lt;/font&gt;：app.app_boai_ck_ord_sum_d&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;存量客户收入量表&lt;/b&gt;&lt;/font&gt;：app.app_boai_ck_egr_sum_m&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="20" y="534" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fe2wq7n0GhLYqu6MdCg9-11" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;存量业务概览可视化&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingLeft=10;spacingRight=10;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="20" y="638" width="470" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
