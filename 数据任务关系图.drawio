@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T06:39:16.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AtpFfxVk6EQGjWQCUiXN" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T07:36:19.420Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XBJal3dYdYMtM1p12aSD" version="21.2.1" type="github">
   <diagram name="第 1 页" id="sbkb4hXFQLxR07IRilG2">
-    <mxGraphModel dx="871" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-3">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-4">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-5">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="420" />
@@ -18,7 +18,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-6">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="420" />
@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-7">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="540" />
@@ -34,15 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="540" />
-              <mxPoint x="608" y="540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-8">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="650" />
@@ -50,38 +42,63 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-1" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;客来任务底层模型&lt;span data-sl-origin-json=&quot;JTVCJTdCJTIyYmdDb2xvciUyMiUzQSUyMiUyM0ZGRTVDNyUyMiUyQyUyMnRleHQlMjIlM0ElMjIlRTUlQUUlQTIlRTYlOUQlQTUlRTQlQkIlQkIlRTUlOEElQTElRTUlQkElOTUlRTUlQjElODIlRTYlQTglQTElRTUlOUUlOEIlMjIlN0QlNUQ=&quot;&gt;&lt;/span&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;File&lt;/font&gt;：app_boai_klein_csm_task_det_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_klein_csm_task_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" vertex="1" parent="1">
+        <mxCell id="m8aJQVdfR1wjTxCrUq0E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="Ctg1ZKv8Jpn2vrHf4hRV-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="540" />
+              <mxPoint x="610" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8aJQVdfR1wjTxCrUq0E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-1" target="m8aJQVdfR1wjTxCrUq0E-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="650" />
+              <mxPoint x="610" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-1" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;客来任务底层模型&lt;span data-sl-origin-json=&quot;JTVCJTdCJTIyYmdDb2xvciUyMiUzQSUyMiUyM0ZGRTVDNyUyMiUyQyUyMnRleHQlMjIlM0ElMjIlRTUlQUUlQTIlRTYlOUQlQTUlRTQlQkIlQkIlRTUlOEElQTElRTUlQkElOTUlRTUlQjElODIlRTYlQTglQTElRTUlOUUlOEIlMjIlN0QlNUQ=&quot;&gt;&lt;/span&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;File&lt;/font&gt;：app_boai_klein_csm_task_det_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_klein_csm_task_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="240" y="230" width="300" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-2" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;File&lt;/font&gt;：&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-2" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;File&lt;/font&gt;：&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="510" y="130" width="300" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-3" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后问题表单回答汇总&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_answer_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_offline_csm_answer_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-3" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后问题表单回答汇总&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_answer_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_offline_csm_answer_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="20" y="340" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-4" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后客户当天续签情况&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_renewed_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_offline_csm_renewed_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="430" y="340" width="355" height="70" as="geometry" />
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-4" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后客户当天续签情况&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_renewed_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_offline_csm_renewed_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="430" y="340" width="360" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-5" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后问题表单填报当前合作竞对方&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_curr_partner_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_offline_curr_partner_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-5" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后问题表单填报当前合作竞对方&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_curr_partner_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_offline_curr_partner_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="20" y="450" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-6" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM未呼通情况&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_notcall_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_online_renewal_notcall_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="430" y="450" width="355" height="70" as="geometry" />
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-6" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM未呼通情况&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_notcall_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_online_renewal_notcall_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="430" y="450" width="360" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-7" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后客户沟通意愿&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_commwill_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_online_renewal_commwill_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-7" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后客户沟通意愿&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_commwill_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_online_renewal_commwill_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="20" y="560" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-8" target="Ctg1ZKv8Jpn2vrHf4hRV-11">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="Ctg1ZKv8Jpn2vrHf4hRV-8" target="Ctg1ZKv8Jpn2vrHf4hRV-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-8" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后【当月/CSM处理名单月份】 工作结果明细&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_30det_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_online_renewal_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-8" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后【当月/CSM处理名单月份】 工作结果明细&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_30det_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_online_renewal_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="20" y="680" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-9" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：CSM效率指标&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_csm_effic_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_csm_efficiency_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="430" y="560" width="355" height="70" as="geometry" />
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-9" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：CSM效率指标&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_csm_effic_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_csm_efficiency_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="430" y="560" width="360" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-11" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后【当月/CSM处理名单月份】 工作结果汇总&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_30sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_offline_csm_renewed_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-11" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后【当月/CSM处理名单月份】 工作结果汇总&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_30sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_boai_offline_csm_renewed_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="20" y="790" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m8aJQVdfR1wjTxCrUq0E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m8aJQVdfR1wjTxCrUq0E-1" target="m8aJQVdfR1wjTxCrUq0E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8aJQVdfR1wjTxCrUq0E-1" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后【当月/CSM处理名单月份】 工作结果明细&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_month_det_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_other_boai_online_renewal_month_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="680" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m8aJQVdfR1wjTxCrUq0E-2" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【续签】CSM触达后【当月/CSM处理名单月份】 业务过程指标&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_boai_renewal_month_sum_d.py&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_other_boai_online_csm_renewed_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="790" width="360" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
