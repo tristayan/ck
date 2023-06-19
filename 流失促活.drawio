@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T02:12:45.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.8" etag="ASgbEzmhbxpkYGZztZfs" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T02:13:58.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="T49V0aUWQy-LVD0JHJOP" version="21.3.8" type="github">
   <diagram name="第 1 页" id="3Rbt06QkHkVihA7fCxBM">
-    <mxGraphModel>
+    <mxGraphModel dx="1306" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SktDr5aVx_PeZ2Q3Nm7t-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SktDr5aVx_PeZ2Q3Nm7t-1" target="SktDr5aVx_PeZ2Q3Nm7t-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SktDr5aVx_PeZ2Q3Nm7t-1" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;C码-业务条线 每月运单量&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_line_ord_sum_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.exe_app_cust_boai_c_line_ord_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SktDr5aVx_PeZ2Q3Nm7t-2" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;C码-客户等级 M-3 M-2 M-1 MTD运单量 历史标签&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_line_ord_loss_sum_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_c_line_ord_loss_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="330" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
