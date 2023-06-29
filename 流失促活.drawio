@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T10:09:40.655Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Y-qF16Zjo0QUinGqAyev" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T10:12:11.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="K2dfD6QFL0SB08tjw7wm" version="21.5.0" type="github">
   <diagram name="第 1 页" id="3Rbt06QkHkVihA7fCxBM">
     <mxGraphModel dx="1306" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,6 +44,9 @@
         <mxCell id="dyf-taAjT1x6mLzymwCE-10" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【流失促活】存客大盘打标&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_loss_active_det_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_c_loss_active_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="487" y="350" width="340" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="dyf-taAjT1x6mLzymwCE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyf-taAjT1x6mLzymwCE-12" target="dyf-taAjT1x6mLzymwCE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dyf-taAjT1x6mLzymwCE-12" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【流失促活】CSM任务结果&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_reactive_det_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_reactive_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="487" y="500" width="340" height="70" as="geometry" />
         </mxCell>
@@ -57,6 +60,9 @@
         </mxCell>
         <mxCell id="dyf-taAjT1x6mLzymwCE-13" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：触达日期-客户-触达原因-CSM运营-产品-单量-收入&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_updatevalue_det_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_updatevalue_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="90" y="350" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dyf-taAjT1x6mLzymwCE-16" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：【流失促活】CSM任务结果汇总&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_reactive_sum_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_reactive_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="487" y="630" width="340" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
