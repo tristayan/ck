@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T02:15:55.862Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2ieMrdiVe5YWQv0z_TAp" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T10:04:35.179Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kvoaykhp0zO5IYWspVVO" version="21.5.0" type="github">
   <diagram name="第 1 页" id="sbkb4hXFQLxR07IRilG2">
     <mxGraphModel dx="1306" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I3WIcIQUrxLZqu7FrUBW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="I3WIcIQUrxLZqu7FrUBW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="290" as="sourcePoint" />
             <mxPoint x="580" y="440" as="targetPoint" />
@@ -23,7 +23,7 @@
         <mxCell id="Ctg1ZKv8Jpn2vrHf4hRV-3" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment&lt;/font&gt;：触达日期-客户-触达原因-CSM运营-产品-单量-收入&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_updatevalue_sum_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_updatevalue_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="410" y="410" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="I3WIcIQUrxLZqu7FrUBW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I3WIcIQUrxLZqu7FrUBW-2" target="Ctg1ZKv8Jpn2vrHf4hRV-3">
+        <mxCell id="I3WIcIQUrxLZqu7FrUBW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I3WIcIQUrxLZqu7FrUBW-2" target="Ctg1ZKv8Jpn2vrHf4hRV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="340" />
@@ -31,10 +31,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I3WIcIQUrxLZqu7FrUBW-2" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;物流CRM C码宽表&lt;span data-sl-origin-json=&quot;JTVCJTdCJTIyYmdDb2xvciUyMiUzQSUyMiUyM0ZGRTVDNyUyMiUyQyUyMnRleHQlMjIlM0ElMjIlRTUlQUUlQTIlRTYlOUQlQTUlRTQlQkIlQkIlRTUlOEElQTElRTUlQkElOTUlRTUlQjElODIlRTYlQTglQTElRTUlOUUlOEIlMjIlN0QlNUQ=&quot;&gt;&lt;/span&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;File&lt;/font&gt;：app_cust_boai_customer_det_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_customer_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" vertex="1" parent="1">
+        <mxCell id="I3WIcIQUrxLZqu7FrUBW-2" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;物流CRM C码宽表&lt;span data-sl-origin-json=&quot;JTVCJTdCJTIyYmdDb2xvciUyMiUzQSUyMiUyM0ZGRTVDNyUyMiUyQyUyMnRleHQlMjIlM0ElMjIlRTUlQUUlQTIlRTYlOUQlQTUlRTQlQkIlQkIlRTUlOEElQTElRTUlQkElOTUlRTUlQjElODIlRTYlQTglQTElRTUlOUUlOEIlMjIlN0QlNUQ=&quot;&gt;&lt;/span&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;File&lt;/font&gt;：app_cust_boai_customer_det_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_customer_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="380" y="200" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I3WIcIQUrxLZqu7FrUBW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I3WIcIQUrxLZqu7FrUBW-3" target="Ctg1ZKv8Jpn2vrHf4hRV-3">
+        <mxCell id="I3WIcIQUrxLZqu7FrUBW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I3WIcIQUrxLZqu7FrUBW-3" target="Ctg1ZKv8Jpn2vrHf4hRV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="865" y="340" />
@@ -42,10 +42,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I3WIcIQUrxLZqu7FrUBW-3" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;C码-业务条线-业务账号-产品&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;每月运单量&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_line_ord_sum_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.exe_app_cust_boai_c_line_ord_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" vertex="1" parent="1">
+        <mxCell id="I3WIcIQUrxLZqu7FrUBW-3" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;C码-业务条线-业务账号-产品&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;每月运单量&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_line_ord_sum_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.exe_app_cust_boai_c_line_ord_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="700" y="200" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I3WIcIQUrxLZqu7FrUBW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I3WIcIQUrxLZqu7FrUBW-4" target="Ctg1ZKv8Jpn2vrHf4hRV-3">
+        <mxCell id="I3WIcIQUrxLZqu7FrUBW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I3WIcIQUrxLZqu7FrUBW-4" target="Ctg1ZKv8Jpn2vrHf4hRV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1225" y="340" />
@@ -53,7 +53,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I3WIcIQUrxLZqu7FrUBW-4" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;C码-业务条线-业务账号-产品&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;每月收入&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_line_egr_sum_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_c_line_egr_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" vertex="1" parent="1">
+        <mxCell id="I3WIcIQUrxLZqu7FrUBW-4" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;C码-业务条线-业务账号-产品&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;每月收入&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_line_egr_sum_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_c_line_egr_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="1060" y="200" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
