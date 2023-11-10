@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T10:11:28.205Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aVlshYxVGSzxcfq7OV7M" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T07:13:05.825Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="nqnjZcAzDLMOr49rZFpF" version="22.1.0" type="github">
   <diagram name="第 1 页" id="oqhqqWGbx-FEBw2WvHf6">
     <mxGraphModel dx="1306" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,15 @@
         </mxCell>
         <mxCell id="Dp2ahzg6YV4KnqZrwCOn-5" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：业务账号业务量-月汇总&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_boai_flow_ord_sum_m.py&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app.&amp;nbsp;app_cust_boai_flow_ord_sum_m" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="280" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2aSz-qpBobda_aWeBooa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2aSz-qpBobda_aWeBooa-1" target="2aSz-qpBobda_aWeBooa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2aSz-qpBobda_aWeBooa-1" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;物流经分-外部收入-商家维度含新产品标&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Table Name：&lt;/font&gt;app.&amp;nbsp;app_ea_egr_vendor_prodcode_sum_m" style="rounded=1;align=left;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;html=1;whiteSpace=wrap;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="140" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2aSz-qpBobda_aWeBooa-2" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：外部收入-月汇总&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_boai_egr_sum_m&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app.&amp;nbsp;app_cust_boai_egr_sum_m" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="280" width="410" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
