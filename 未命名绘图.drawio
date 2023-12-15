@@ -1,27 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T10:10:07.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kugw_2CkvR004i5u3tQA" version="22.1.0" type="github">
-  <diagram name="第 1 页" id="oqhqqWGbx-FEBw2WvHf6">
-    <mxGraphModel dx="1306" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-12-15T02:48:14.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.9" etag="ZvS-3bdjrbaVf--hwDTM" type="github">
+  <diagram name="第 1 页" id="6AfmEajfT0H3jfSi0ulJ">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dp2ahzg6YV4KnqZrwCOn-1" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="20" width="370" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Dp2ahzg6YV4KnqZrwCOn-2" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：业务账号业务量-日汇总&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_boai_flow_ord_sum_d.py&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app.&amp;nbsp;app_cust_boai_flow_ord_sum_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="280" width="370" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Dp2ahzg6YV4KnqZrwCOn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" edge="1" parent="1" source="Dp2ahzg6YV4KnqZrwCOn-3" target="Dp2ahzg6YV4KnqZrwCOn-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Dp2ahzg6YV4KnqZrwCOn-3" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;物流经分-整体业务量-商家维度-日表&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Table Name：&lt;/font&gt;app.&amp;nbsp;app_ea_del_flow_stat_sum_vender_d" style="rounded=1;align=left;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;html=1;whiteSpace=wrap;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="140" width="390" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Dp2ahzg6YV4KnqZrwCOn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" edge="1" parent="1" source="Dp2ahzg6YV4KnqZrwCOn-3" target="Dp2ahzg6YV4KnqZrwCOn-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Dp2ahzg6YV4KnqZrwCOn-5" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：业务账号业务量-月汇总&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_boai_flow_ord_sum_m.py&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app.&amp;nbsp;app_cust_boai_flow_ord_sum_m" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="280" width="370" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
