@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T12:48:14.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2luBJD-PN2pAjchUBCL2" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T12:53:58.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WZgxtn2kYRSkewKD9RmD" version="22.1.11" type="github">
   <diagram name="第 1 页" id="oqhqqWGbx-FEBw2WvHf6">
-    <mxGraphModel dx="2373" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2299" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-720" y="-240" width="1770" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Dp2ahzg6YV4KnqZrwCOn-1" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="-130" width="370" height="80" as="geometry" />
+          <mxGeometry x="2950" y="-180" width="370" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WzqEpgjn6ln_uHcKJWDK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dp2ahzg6YV4KnqZrwCOn-2" target="WzqEpgjn6ln_uHcKJWDK-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -90,6 +90,14 @@
             <Array as="points">
               <mxPoint x="1845" y="560" />
               <mxPoint x="3025" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3EfIAOspJleTKg7GMkUH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2aSz-qpBobda_aWeBooa-2" target="3EfIAOspJleTKg7GMkUH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1845" y="560" />
+              <mxPoint x="3523" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -209,6 +217,12 @@
         </mxCell>
         <mxCell id="3EfIAOspJleTKg7GMkUH-1" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：外部收入-分业务条线进行C码月汇总&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_splitbusi_egr_sum_m&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app.&amp;nbsp;app_cust_boai_c_splitbusi_egr_sum_m" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
           <mxGeometry x="3308" y="640" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3EfIAOspJleTKg7GMkUH-4" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;合约中心&lt;/span&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=24;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-240" width="500" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3EfIAOspJleTKg7GMkUH-7" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：客户最早签约日期&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_boai_contract_det_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_boai_contract_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-150" width="420" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
