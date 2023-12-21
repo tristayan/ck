@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T13:02:45.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uRJci-DOE29DPgWj2yVv" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T13:04:50.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OBrTk9HKMeLUNyTreGiy" version="22.1.11" type="github">
   <diagram name="第 1 页" id="oqhqqWGbx-FEBw2WvHf6">
-    <mxGraphModel dx="3919" dy="2701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4692" dy="3084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3EfIAOspJleTKg7GMkUH-21" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;收入&lt;/span&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=24;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="860" y="70" width="3660" height="780" as="geometry" />
+        </mxCell>
         <mxCell id="3EfIAOspJleTKg7GMkUH-17" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;CRM系统&lt;/span&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=24;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="-720" y="-430" width="1890" height="420" as="geometry" />
         </mxCell>
@@ -12,9 +15,6 @@
         </mxCell>
         <mxCell id="WzqEpgjn6ln_uHcKJWDK-27" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;业务量&lt;/span&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=24;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="-720" y="70" width="1510" height="770" as="geometry" />
-        </mxCell>
-        <mxCell id="WzqEpgjn6ln_uHcKJWDK-26" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;收入&lt;/span&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=24;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="860" y="70" width="3660" height="780" as="geometry" />
         </mxCell>
         <mxCell id="Dp2ahzg6YV4KnqZrwCOn-1" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" parent="1" vertex="1">
           <mxGeometry x="2950" y="-180" width="370" height="80" as="geometry" />
@@ -103,6 +103,15 @@
             <Array as="points">
               <mxPoint x="1845" y="560" />
               <mxPoint x="3523" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3EfIAOspJleTKg7GMkUH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2aSz-qpBobda_aWeBooa-2" target="3EfIAOspJleTKg7GMkUH-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2690" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1845" y="560" />
+              <mxPoint x="4055" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -257,6 +266,12 @@
         </mxCell>
         <mxCell id="3EfIAOspJleTKg7GMkUH-12" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：CRM与报告行业映射关系表&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_dim_crm_report_industry_map_det_d&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app.app_cust_dim_crm_report_industry_map_det_d" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="-550" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3EfIAOspJleTKg7GMkUH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3EfIAOspJleTKg7GMkUH-18" target="3EfIAOspJleTKg7GMkUH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3EfIAOspJleTKg7GMkUH-18" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;开放物流产品中心产品信息表&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Table Name：&lt;/font&gt;fdm.fdm_open_lpc_product_chain" style="rounded=1;align=left;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;html=1;whiteSpace=wrap;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="3850" y="220" width="410" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
