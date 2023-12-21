@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T13:01:51.018Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0p0lSF26enPvmQpR3klK" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T13:02:45.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uRJci-DOE29DPgWj2yVv" version="22.1.11" type="github">
   <diagram name="第 1 页" id="oqhqqWGbx-FEBw2WvHf6">
     <mxGraphModel dx="3919" dy="2701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3EfIAOspJleTKg7GMkUH-15" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;CRM系统&lt;/span&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=24;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="3EfIAOspJleTKg7GMkUH-17" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;CRM系统&lt;/span&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=24;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="-720" y="-430" width="1890" height="420" as="geometry" />
         </mxCell>
         <mxCell id="WzqEpgjn6ln_uHcKJWDK-42" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;折扣&lt;/span&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=24;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
@@ -108,6 +108,15 @@
         </mxCell>
         <mxCell id="2aSz-qpBobda_aWeBooa-2" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;外部收入-月汇总&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_boai_egr_sum_m&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app.&amp;nbsp;app_cust_boai_egr_sum_m" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" parent="1" vertex="1">
           <mxGeometry x="1630" y="300" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3EfIAOspJleTKg7GMkUH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2aSz-qpBobda_aWeBooa-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="-120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="695" />
+              <mxPoint x="830" y="-120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2aSz-qpBobda_aWeBooa-4" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;保有客户标签&lt;/span&gt;&lt;br&gt;【上一年任一月份产生过收入的客户】&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_baoyou_sum_y&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app. app_cust_boai_c_baoyou_sum_y" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" parent="1" vertex="1">
           <mxGeometry x="905" y="640" width="430" height="110" as="geometry" />
