@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T13:14:37.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="viPNc4NrQi5PHSTqIJMU" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T07:36:31.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ki2q3VpJWAw30e3cP5z4" version="22.1.11" type="github">
   <diagram name="第 1 页" id="oqhqqWGbx-FEBw2WvHf6">
-    <mxGraphModel dx="8557" dy="4999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4229" dy="2347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="-720" y="930" width="1040" height="420" as="geometry" />
         </mxCell>
         <mxCell id="WzqEpgjn6ln_uHcKJWDK-27" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;业务量&lt;/span&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=24;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="-720" y="70" width="1510" height="770" as="geometry" />
+          <mxGeometry x="-1350" y="70" width="2140" height="770" as="geometry" />
         </mxCell>
         <mxCell id="Dp2ahzg6YV4KnqZrwCOn-1" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" parent="1" vertex="1">
           <mxGeometry x="2950" y="-180" width="370" height="80" as="geometry" />
@@ -29,6 +29,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WzqEpgjn6ln_uHcKJWDK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dp2ahzg6YV4KnqZrwCOn-3" target="WzqEpgjn6ln_uHcKJWDK-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3EfIAOspJleTKg7GMkUH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dp2ahzg6YV4KnqZrwCOn-3" target="3EfIAOspJleTKg7GMkUH-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dp2ahzg6YV4KnqZrwCOn-3" value="&lt;font color=&quot;#cc0000&quot;&gt;Comment：&lt;/font&gt;物流经分-整体业务量-商家维度-日表&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;Table Name：&lt;/font&gt;app.&amp;nbsp;app_ea_del_flow_stat_sum_vender_d" style="rounded=1;align=left;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;html=1;whiteSpace=wrap;spacing=16;spacingTop=0;spacingRight=0;" parent="1" vertex="1">
@@ -292,6 +295,9 @@
         </mxCell>
         <mxCell id="3EfIAOspJleTKg7GMkUH-23" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：C码多产品渗透--使用不同数量的供应链主产品的供应链产品情况和快快产品情况&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_product_det_m&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app. app_cust_boai_c_product_det_m" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;" vertex="1" parent="1">
           <mxGeometry x="4070" y="770" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3EfIAOspJleTKg7GMkUH-29" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Comment&lt;/font&gt;：外部运单量-分业务条线进行C码月汇总&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;File&lt;/font&gt;：app_cust_boai_c_splitbusi_ord_sum_m&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot;&gt;Target Table&lt;/font&gt;：app.&amp;nbsp;app_cust_boai_c_splitbusi_ord_sum_m" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=14;spacing=16;spacingTop=0;spacingRight=0;strokeColor=#FF3908;fillColor=#FFC8BD;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="500" width="430" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
