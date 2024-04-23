@@ -1,11 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T09:59:03.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KNoTFZjjQDwk-BXDNeh_" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T10:02:06.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TXu2NzhGXxmEwnEiZNPq" version="24.2.8" type="github">
   <diagram name="第 1 页" id="au2QBy3FSzcQ9kTv4xww">
-    <mxGraphModel dx="1035" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="753" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5L7Eph0Q-Wm5cCdcGl41-1" value="任务名称：exe_app_cust_boai_cdp_sum_d&lt;div&gt;任务描述：存客CDP用户属性一期数据加工&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="130" width="310" height="120" as="geometry" />
+        <mxCell id="rSqXmRDmjZBF7q505tpV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5L7Eph0Q-Wm5cCdcGl41-1" target="rSqXmRDmjZBF7q505tpV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5L7Eph0Q-Wm5cCdcGl41-1" value="任务名称：exe_app_cust_boai_cdp_sum_d&lt;div&gt;任务描述：存客CDP用户属性一期数据加工&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="130" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSqXmRDmjZBF7q505tpV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rSqXmRDmjZBF7q505tpV-1" target="rSqXmRDmjZBF7q505tpV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSqXmRDmjZBF7q505tpV-1" value="任务名称：exe_app_cust_boai_tojson_sum_d&lt;div&gt;任务描述：存客CDP用户属性一期处理成json格式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSqXmRDmjZBF7q505tpV-2" value="任务名称：exe_cdp_hive2mq&lt;div&gt;任务描述：存客CDP用户属性一期写入CDP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSqXmRDmjZBF7q505tpV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rSqXmRDmjZBF7q505tpV-6" target="rSqXmRDmjZBF7q505tpV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSqXmRDmjZBF7q505tpV-6" value="任务名称：exe_app_cust_boai_cdp_algorithm_sum_d&lt;div&gt;任务描述：存客CDP用户属性二期算法标签加工&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="130" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSqXmRDmjZBF7q505tpV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rSqXmRDmjZBF7q505tpV-8" target="rSqXmRDmjZBF7q505tpV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSqXmRDmjZBF7q505tpV-8" value="任务名称：exe_app_cust_boai_algorithm_tojson_sum_d&lt;div&gt;任务描述：存客CDP用户属性二期算法标签处理成json格式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSqXmRDmjZBF7q505tpV-9" value="任务名称：exe_cdp_algorithm_hive2mq&lt;div&gt;任务描述：存客CDP用户属性二期算法标签写入CDP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="310" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
